@@ -22,7 +22,7 @@ The toolchains recommended on this page **don't require configuration to get sta
 
 ## You Might Not Need a Toolchain {#you-might-not-need-a-toolchain}
 
-If you don't experience the problems described above or don't feel comfortable using JavaScript tools yet, consider [adding React as a plain `<script>` tag on an HTML page](/docs/add-react-to-a-website.html), optionally [with JSX](/docs/add-react-to-a-website.html#optional-try-react-with-jsx).
+If you don't experience the problems described above or feel comfortable using JavaScript tools yet, consider [adding React as a plain `<script>` tag on an HTML page](/docs/add-react-to-a-website.html), optionally [with JSX](/docs/add-react-to-a-website.html#optional-try-react-with-jsx).
 
 This is also **the easiest way to integrate React into an existing website.** You can always add a larger toolchain if you find it helpful!
 
